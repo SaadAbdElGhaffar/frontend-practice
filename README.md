@@ -281,21 +281,27 @@ If you have questions, suggestions, or find any issues:
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+<h2 align="left">📬 Contact</h2>
 
-<!-- Connect with me -->
-<h2 align="center">🤝 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/saadabdelghaffar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:saad.abdelghaffar.ai@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+<p align="left">
+  <b>GitHub:</b> 
   <a href="https://github.com/SaadAbdElGhaffar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    github.com/SaadAbdElGhaffar
+  </a>
+  <br><br>
+
+  <b>LinkedIn:</b> 
+  <a href="https://www.linkedin.com/in/saadabdelghaffar/" target="_blank">
+    linkedin.com/in/saadabdelghaffar
+  </a>
+  <br><br>
+
+  <b>Email:</b> 
+  <a href="mailto:saad.abdelghaffar.ai@gmail.com">
+    saad.abdelghaffar.ai@gmail.com
   </a>
 </p>
+
 ---
 
 **Happy Coding! 🚀**
