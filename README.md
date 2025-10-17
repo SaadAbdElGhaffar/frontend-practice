@@ -283,10 +283,9 @@ If you have questions, suggestions, or find any issues:
 This project is open source and available under the [MIT License](LICENSE).
 
 ## 📬 Contact
-- **GitHub:** [@SaadAbdElGhaffar](https://github.com/SaadAbdElGhaffar)
-- **LinkedIn:** [Saad Ahmed](https://www.linkedin.com/in/saadabdelghaffar/)
+- **GitHub:** [SaadAbdElGhaffar](https://github.com/SaadAbdElGhaffar) 
+- **LinkedIn:** [Saad Abd El-Ghaffar](https://www.linkedin.com/in/saadabdelghaffar/) 
 - **Email:** [saad.abdelghaffar.ai@gmail.com](mailto:saad.abdelghaffar.ai@gmail.com)
-
 ---
 
 **Happy Coding! 🚀**
